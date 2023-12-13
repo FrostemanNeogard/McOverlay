@@ -11,3 +11,5 @@ This is a simple chrome extension to add the Northernlion McDelivery overlay to 
 ## Notes
 This is a very stupid project bodged together in half an hour or so. It's pretty janky and the overlay itself is very poorly cropped.
 If the overlay isn't showing up, try refreshing your Twitch tab.
+
+If there are any issues or questions, feel free to report it as an issue on this GitHub repo.
