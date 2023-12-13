@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "McOverlay",
+  "version": "1.0",
+  "description": "Add the Northernlion McDelivery overlay to any Twitch stream.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "overlay.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.twitch.tv/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
