@@ -2,7 +2,7 @@
 This is a simple chrome extension to add the Northernlion McDelivery overlay to any twitch stream.
 
 ## Installation
-1. Download the files from the repository using the green "<> Code" button > "Download ZIP".
+1. Download the files from the repository using the green "<> Code" button > "Download ZIP" (or clone the GitHub repo).
 2. Extract the contents of the downloaded archive.
 3. In Chrome, go to `Settings > Extensions > Manage Extensions`.
 4. Press the "Load Unpacked" button on the top-left side of the page and select the extracted folder.
